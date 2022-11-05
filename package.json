@@ -1,5 +1,5 @@
 {
-  "name": "other-lan",
+  "name": "อื่นๆ-lan",
   "main": "./lib/other-lan",
   "version": "0.0.0",
   "description": "ทำให้เราได้ทราบถึงข้อมูลที่แท้จริงว่าเว็บไหนปังเว็บไหนพัง",
