@@ -10,7 +10,7 @@
   "activationCommands": {
     "atom-workspace": "other-lan:toggle"
   },
-  "repository": "https://github.com/atom/other-lan",
+  "repository": "https://github.com/nathanfreeman1111/other-lan",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
