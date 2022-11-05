@@ -1,9 +1,11 @@
 {
-  "name": "other-lan",
+  "name": "มีใบอนุญาตการพนันที่ได้รับมาตรฐานอย่าง Curacao",
   "main": "./lib/other-lan",
   "version": "0.0.0",
   "description": "ทำให้เราได้ทราบถึงข้อมูลที่แท้จริงว่าเว็บไหนปังเว็บไหนพัง",
   "keywords": [
+    "gh",
+    "jgfjf"
   ],
   "activationCommands": {
     "atom-workspace": "other-lan:toggle"
