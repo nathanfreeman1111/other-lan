@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle other-lan",
+        "command": "other-lan:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "other-lan",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "other-lan:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
